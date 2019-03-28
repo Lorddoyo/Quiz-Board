@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC|ZCOOL+XiaoWei" rel="stylesheet">
     <script
      src="https://code.jquery.com/jquery-3.3.1.js"
      integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
@@ -15,11 +16,27 @@
   <body>
     <div class="container">
     <div class="row">
+      <div class = "col-md-9">
     <h1>This Is A JavaScript Quiz</h1>
+    <p id = "ex">Answer the question below!</p>
+    <br>
+    <p id = "ex">If you score below 50% you will have to retake it!</p>
+    <div class="image-hidden">
+            <p>This is just a word of advice. <span class="clickable">Click here</span> to see the surprise!</p>
+          </div>
+
+          <div class="image-showing">
+            <p>Don't stress! <span class="clickable">Click here</span> to hide again.</p>
+            <img src="img/tenor.gif">
+          </div>
+          <br>
+          <br>
+          <br>
+          <br>
     <form id="form">
 
       <div id='javascript'>
-        <h2>What is the official name of JavaScript?</h2>
+        <h2>1.What is the official name of JavaScript?</h2>
         <label><input type = "radio" name ="javascript" value = "25">ECMAScript</label>
         <label><input type = "radio" name ="javascript" value = "0">Emacscrpt</label>
         <label><input type = "radio" name ="javascript" value = "0">EMSCSCRIPT</label>
@@ -27,7 +44,7 @@
 
       </div>
       <div id="datatypes">
-        <h3>How many datatypes in JavaScript</h3>
+        <h2>2.How many datatypes in JavaScript</h2>
         <label><input type = "radio" name ="datatypes" value = "0">1</label>
         <label><input type = "radio" name ="datatypes" value = "0">4</label>
         <label><input type = "radio" name ="datatypes" value = "25">6</label>
@@ -35,7 +52,7 @@
 
       </div>
       <div id="punctuation">
-        <h3>Which punctuation mark tells JavaScript to run everything before it?</h3>
+        <h2>3.Which punctuation mark tells JavaScript to run everything before it?</h2>
         <label><input type = "radio" name ="punctuation" value = "0">!</label>
         <label><input type = "radio" name ="punctuation" value = "0">:</label>
         <label><input type = "radio" name ="punctuation" value = "0">||</label>
@@ -43,21 +60,26 @@
 
       </div>
       <div ="NaN">
-        <h4>Is NaN a number in JavaScript?</h4>
+        <h2>4.Is NaN a number in JavaScript?</h2>
         <label><input type = "radio" name ="NaN" value = "0">no</label>
         <label><input type = "radio" name ="NaN" value = "25">yes</label>
         <label><input type = "radio" name ="NaN" value = "0">maybe</label>
         <label><input type = "radio" name ="NaN" value = "0">not sure</label>
-
-
       </div>
 
+      <input class="btn btn-primary" type="submit" value="Submit">
 
+
+
+
+     </div>
+     </div>
+     </div>
     </form>
-
-
-  </div>
-</div>
+       <div id="display"></div>
+       <p id ="percent"></p>
+       </div>
+        <a href="index.html"><button type="button" name="button" id="redo">REPEAT TEST</button></a>
 
   </body>
 </html>

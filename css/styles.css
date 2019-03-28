@@ -1,1 +1,23 @@
+.image-showing {
+       display: none;
+     }
 
+.clickable {
+            cursor: pointer;
+            color: #0088cc;
+          }
+.clickable:hover {
+            text-decoration: underline;
+          }
+#ex{
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 33px;
+  text-align: center;
+}
+#form{
+  font-family: 'Playfair Display SC', serif;
+
+}
+h1{
+  text-align: center;
+}
