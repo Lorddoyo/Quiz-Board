@@ -5,3 +5,11 @@ $(document).ready(function() {
         $(".image-hidden").toggle();
       });
     });
+/*now for the business logic*/
+$(document).ready(fuction() {
+  $("input[type = 'submit']"click(function(event){
+    
+
+
+  })
+});
