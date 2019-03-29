@@ -1,3 +1,4 @@
+
 .image-showing {
        display: none;
      }
@@ -20,4 +21,7 @@
 }
 h1{
   text-align: center;
+}
+.body{
+  background-image: url(img/adano.jpg);
 }
