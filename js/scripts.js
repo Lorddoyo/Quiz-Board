@@ -1,7 +1,6 @@
 
 /*this is the Back end logic */
 $(document).ready(function(){
-
     $("#form").submit(function(event){
        event.preventDefault();
        $("#display").text(results);
