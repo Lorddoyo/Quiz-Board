@@ -24,3 +24,23 @@
 h1{
   text-align: center;
 }
+#display{
+  text-align: center;
+  font-size: 38px;
+  color: red;
+
+}
+.btn{
+  text-align: center;
+  font-size: 33px;
+
+}
+#redo{
+  
+  font-size: 35px;
+  float: right;
+}
+#fail{
+  text-align: center;
+  font-size: 28px;
+}
