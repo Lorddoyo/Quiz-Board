@@ -16,7 +16,7 @@ $(document).ready(function(){
 
 
        if(results > 80){
-         $("#display").text ("Your marks are " +  results  + " You are good at it!")
+         $("#display").text ("Your marks are, " +  results  + " percent , You are good at it!")
        }else if (results >= 60){
          $("#display").text("AVERAGE");
        }else {

@@ -33,10 +33,14 @@ h1{
 .btn{
   text-align: center;
   font-size: 33px;
+  position: sticky;
+  top: 50%;
+  left: 50%;
+  transition-timing-function: step-end;
 
 }
 #redo{
-  
+
   font-size: 35px;
   float: right;
 }
