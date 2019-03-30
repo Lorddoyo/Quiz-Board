@@ -1,6 +1,6 @@
-# {QUIZ BOARD}
-#### {This is an online quiz made for the moi high school kabarak computer club .It is a five question quiz that helps you know how much you have grasped concerning the JavaScript basics. After one has finished the quiz you are graded and the you score is computed and you then you receive a feedback.}, {29/3/2019}
-#### By **{By ADANO GODANA}**
+# QUIZ BOARD
+#### This is an online quiz made for the moi high school kabarak computer club .It is a five question quiz that helps you know how much you have grasped concerning the JavaScript basics. After one has finished the quiz you are graded and the you score is computed and you then you receive a feedback., 29/3/2019
+#### By **By ADANO GODANA**
 ## Description
 This website has a quiz of five questions that when attempted it will give you a feedback of how you have performed. The students responses are graded and the score is computed followed by a comment explaining whether the student should retake the text or not.
 ##Dependencies
@@ -21,9 +21,9 @@ HTMl
 css
 JavaScript
 ## Support and contact details
-you can contact me at my email johnkojo7777@gmail.com
+You can contact me at my email johnkojo7777@gmail.com
 ### License
-Copyright (c) [2019] [ADANO GODANA]
+Copyright (c) 2019 ADANO GODANA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -43,4 +43,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) Lorddoyo **{ADANO GODANA}**
+Copyright (c) Lorddoyo **ADANO GODANA**
