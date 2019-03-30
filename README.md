@@ -1,6 +1,6 @@
 # QUIZ BOARD
 #### This is an online quiz made for the moi high school kabarak computer club .It is a five question quiz that helps you know how much you have grasped concerning the JavaScript basics. After one has finished the quiz you are graded and the you score is computed and you then you receive a feedback., 29/3/2019
-#### By **By ADANO GODANA**
+####  **By ADANO GODANA**
 ## Description
 This website has a quiz of five questions that when attempted it will give you a feedback of how you have performed. The students responses are graded and the score is computed followed by a comment explaining whether the student should retake the text or not.
 ##Dependencies

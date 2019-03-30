@@ -1,4 +1,6 @@
-
+.body{
+  background-image: url(..//img/adano.jpg);
+}
 .image-showing {
        display: none;
      }
