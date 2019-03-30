@@ -12,7 +12,7 @@ Uncompressed, development jQuery 3.3.1
 * Load gitHub on your browser.
 * Search for Lorddoyo/.... repository.
 * Fork the data onto your own personal repository
-* To access the live website, click on this url
+* To access the live website, click on this url https://lorddoyo.github.io/Quiz-Board/index.HTML
 
 ## Known Bugs
 No bugs but in case of any my contacts are below here
