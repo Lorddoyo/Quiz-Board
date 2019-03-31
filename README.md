@@ -5,7 +5,7 @@
 This website has a quiz of five questions that when attempted it will give you a feedback of how you have performed. The students responses are graded and the score is computed followed by a comment explaining whether the student should retake the text or not.
 ##Dependencies
 Uncompressed, development jQuery 3.3.1
-##BDD
+
 
 ## Setup/Installation Requirements
 * Open your browser browser.
