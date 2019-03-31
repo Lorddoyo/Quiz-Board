@@ -3,13 +3,20 @@
 ####  **By ADANO GODANA**
 ## Description
 This website has a quiz of five questions that when attempted it will give you a feedback of how you have performed. The students responses are graded and the score is computed followed by a comment explaining whether the student should retake the text or not.
-##Dependencies
+
+###Dependencies
+
 Uncompressed, development jQuery 3.3.1
-##BDD
+
+
+###BDD
+
 |    BEHAVIOR                   |     input     |    output      |
 |student scores > 80            |    90         | you have passed|
 |student scores between 80 to 60|    60         | average score  |
 |student scores below 60        |    40         | failed         |
+
+
 
 ## Setup/Installation Requirements
 * Open your browser browser.
