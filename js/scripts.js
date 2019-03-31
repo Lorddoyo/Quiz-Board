@@ -20,7 +20,7 @@ $(document).ready(function(){
        }else if (results >= 60){
          $("#display").text("AVERAGE");
        }else {
-         $("#display").text("FAIL");
+         $("#display").text("Below Average,Please repeat the quiz by pressing the button to the bottom right");
        }
 
 

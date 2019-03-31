@@ -23,11 +23,13 @@
 }
 h1{
   text-align: center;
+  padding-bottom: 20px;
 }
 #display{
   text-align: center;
   font-size: 38px;
   color: red;
+  font-family: font-family: 'Ultra', serif;
 
 }
 .btn{
@@ -47,4 +49,8 @@ h1{
 #fail{
   text-align: center;
   font-size: 28px;
+}
+.jumbotron{
+
+
 }
