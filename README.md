@@ -10,10 +10,10 @@ Uncompressed, development jQuery 3.3.1
 
 
 ##BDD
-|    BEHAVIOR                   |     input     |    output      |
-|student scores > 80            |    90         | you have passed|
-|student scores between 80 to 60|    60         | average score  |
-|student scores below 60        |    40         | failed         |
+|    BEHAVIOR                   :|     input :|    output      |
+|student scores > 80            :|    90     :|you have passed |
+|student scores between 80 to 60:|    60     :| average score  |
+|student scores below 60        :|    40     :| failed         |
 
 ## Setup/Installation Requirements
 * Open your browser browser.
