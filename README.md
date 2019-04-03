@@ -1,15 +1,15 @@
 # QUIZ BOARD
 #### This is an online quiz made for the moi high school kabarak computer club .It is a five question quiz that helps you know how much you have grasped concerning the JavaScript basics. After one has finished the quiz you are graded and the you score is computed and you then you receive a feedback., 29/3/2019
 ####  **By ADANO GODANA**
-## Description
+# Description
 This website has a quiz of five questions that when attempted it will give you a feedback of how you have performed. The students responses are graded and the score is computed followed by a comment explaining whether the student should retake the text or not.
 
-###Dependencies
+#Dependencies
 
 Uncompressed, development jQuery 3.3.1
 
 
-###BDD
+#BDD
 
 |    BEHAVIOR                   |     input     |    output      |
 |------------------------------:|--------------:|---------------:|
@@ -27,7 +27,8 @@ Uncompressed, development jQuery 3.3.1
 * Load gitHub on your browser.
 * Search for Lorddoyo/.... repository.
 * Fork the data onto your own personal repository
-* To access the live website, click on this url https://lorddoyo.github.io/Quiz-Board/index.HTML
+* [To access the live website, click here](https://lorddoyo.github.io/Quiz-Board/index.HTML)
+
 
 ## Known Bugs
 No bugs but in case of any my contacts are below here
@@ -36,9 +37,9 @@ HTMl
 css
 JavaScript
 ## Support and contact details
-You can contact me at my email johnkojo7777@gmail.com
+You can contact me at my email _johnkojo7777@gmail.com_
 ### License
-MIT License  Copyright (c) 2019 ADANO GODANA
+MIT License  Copyright (c) 2019 **ADANO GODANA**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
